@@ -18,6 +18,10 @@ I strongly recommend to run this tool using the docker image. If you want to run
 
 `docker build -t reconscan .`
 
+or 
+
+`docker pull kminthein/reconscan`
+
 ### step 2
 
 `docker run --name=reconscan -t -p 80:80 -d reconscan`
