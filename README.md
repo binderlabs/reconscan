@@ -79,13 +79,13 @@ In another terminal run
 
 `php /home/reconscan/artisan queue:work --timeout=0 `
 
-Once above steps are done, you can start browsing to http://127.0.0.1:8000. 
+Once above steps are done, you can start browsing to http://127.0.0.1. 
 
 ![alt text](extra_images/login.png)
 # Usage
 
 ## Registration
-You must register your first account by visting http://127.0.0.1:8000/register
+You must register your first account by visting http://127.0.0.1/register
 ![alt text](extra_images/register.png)
 
 # UI
