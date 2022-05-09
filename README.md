@@ -16,6 +16,10 @@ I strongly recommend to run this tool using the docker image. If you want to run
 
 ### step 1
 
+`git clone https://github.com/weev3/reconscan;cd reconscan`
+
+then
+
 `docker build -t reconscan .`
 
 or 
